@@ -16,4 +16,4 @@ I decided that what we really needed was a door alarm, but in reverse - an alarm
 
 Enter the Arduino!
 
-<insert URL to instructable here>
+http://www.instructables.com/id/Bathroom-Minder/
